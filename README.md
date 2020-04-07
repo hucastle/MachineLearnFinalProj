@@ -18,5 +18,5 @@ PitcherData.csv
 
 
 Documentation related to this project
-SCS3254_019_MachLearn_Team 1_Project_Report.docx
-Term Project - Team#1 - MLB Pitch Prediction.pptx
+SCS3254_019_MachLearn_Team 1_Project_Report.docx.pdf
+Term Project - Team#1 - MLB Pitch Prediction.pptx.pdf
